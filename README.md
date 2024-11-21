@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/4jaFpJz.png" alt="Light"/>
+<h1>Starlit</h1>
 <p style="color: #00FF7F">A fast, simple, and highly customizable proxy.</p>
 </div>
 
